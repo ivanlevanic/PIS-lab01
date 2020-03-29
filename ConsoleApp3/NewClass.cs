@@ -8,5 +8,6 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        Console.WriteLine("Konflikt");
     }
 }
