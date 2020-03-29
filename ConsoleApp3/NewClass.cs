@@ -9,4 +9,6 @@ namespace ConsoleApp3
     class NewClass
     {
     }
+
+    class NovaMetoda { }
 }
